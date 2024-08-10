@@ -1,0 +1,49 @@
+/* Vencordカスタムテーマ */
+
+/* 全体の背景 */
+body {
+    background-image: url('background.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+/* メインコンテンツ領域 */
+.content-1SgpWY {
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 10px;
+}
+
+/* サイドバー */
+.sidebar-1tnWFu {
+    background-color: rgba(30, 30, 30, 0.8);
+}
+
+/* チャンネルリスト */
+.channel-2QD9_O {
+    background-color: rgba(40, 40, 40, 0.6);
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+/* メッセージ入力欄 */
+.scrollableContainer-15eg7h {
+    background-color: rgba(60, 60, 60, 0.7);
+}
+
+/* ユーザーリスト */
+.members-3WRCEx {
+    background-color: rgba(20, 20, 20, 0.7);
+}
+
+/* メッセージ */
+.message-2CShn3 {
+    background-color: rgba(50, 50, 50, 0.5);
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+/* ヘッダー */
+.header-3OsQeK {
+    background-color: rgba(40, 40, 40, 0.8);
+}
